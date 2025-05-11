@@ -5,7 +5,7 @@ In the language of your choice, write code to read a file and filter its content
 **Task:**
 
 - Create a script/program that:
-  - Opens [003-filter.txt](/assets/003-filter.txt]
+  - Opens [003-filter.txt](/assets/003-filter.txt)
   - Reads the file line by line.
   - Filters and collects only those lines that contain the word `fox` (case-insensitive).
   - Prints the filtered lines to the screen.
